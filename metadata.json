@@ -1,0 +1,7 @@
+{
+  "name": "مكتب النائب عزت كريم",
+  "description": "A professional bilingual platform (Arabic/English) connecting Members of Parliament with citizens for complaint submission, tracking, and direct communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
